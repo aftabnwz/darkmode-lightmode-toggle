@@ -6,4 +6,4 @@ Enable dark mode on the website.
 Components - Routes - Header - Toggle - App - User  
 User information is being saved into local storage.  
 How to start - npm start or - yarn start  
-Future improvements - Validations - CSS improvements - Save user data via API
+Future improvements - Validations - CSS improvements - Save user data via API.
